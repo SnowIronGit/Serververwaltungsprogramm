@@ -1,0 +1,9 @@
+Action: befehl| User: pan Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
+Action: befehl| User: pan Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
+Action: befehl| User: pan Agent-IP: 8.8.8.8 Befehl: sfc /scannow Folgende Rückmledung: 1
+Action: befehl| User: peter Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
+Action: befehl| User: peter Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
+Action: befehl| User: peter Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
+Action: befehl| User: peter Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
+Action: befehl| User: Peter Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
+Action: befehl| User: Peter Agent-IP: 127.0.0.1 Befehl: calc Folgende Rückmledung: 4
